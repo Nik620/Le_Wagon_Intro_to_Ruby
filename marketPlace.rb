@@ -1,3 +1,6 @@
+# Market Place
+# expanded inventory, creates a reciept, updates qty
+
 p "*************************"
 p "Welcome to Le Wagon Market Place!"
 p "*************************"
