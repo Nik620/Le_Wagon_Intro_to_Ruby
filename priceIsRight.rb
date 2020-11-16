@@ -1,3 +1,7 @@
+# Price is Right minigame
+# updated for continuous loops
+# added easy, medium, and hard modes
+
 p "Welcome to the 'Price is Right' Mini-Game\n"
 
 # initialize variables
